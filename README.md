@@ -13,5 +13,4 @@ evData is the data that needs to be sent to a specific event,
       from which device an attempt was made to log into the account; if the attempt was not accepted by the account owner, then we will block access to the application by phone ID
 these are not default events, but custom ones,
 here it is divided into small parts so that there is no code repetition and it can be used separately
-```
 `
